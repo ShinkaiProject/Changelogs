@@ -1,5 +1,19 @@
 # Shinkai Project Changelogs
 
+# July 13, 2026
+- base: support per-app volume
+- services: Fixing per-app volume ux
+- Adding multi-media focus support
+- VolumeHaptics: Tune the primitives
+- SystemUI: Introduce Adaptive Playback
+- allowing spl downgrade by default
+- recovery: Skip verifying packages altogether
+- recovery: Make recovery usable on user builds
+- recovery: add support for changing slots
+- recovery: Add support for AIDL bootcontrol HAL in slot switch option
+- recovery: fix PNG color type for logo (RGBA -> Grayscale)
+
+
 # July 10, 2026
 
 - Revert: Disable blurs during critical thermal state
