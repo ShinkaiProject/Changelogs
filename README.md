@@ -1,5 +1,15 @@
 # Shinkai Project Changelogs
 
+# August 03, 2026
+- introducing Shinkai Walls
+- GameSpace: Revamp UI
+- Drop all about play integrity fix (we have fenrir hell yeah)
+- fixup: Bring back bar battery show percent
+- add shinkai project logo on about phone 
+- Add Hide ADB & Developer Option Status
+- add Partial Screenshot
+- also added the shinkai project logo in recovery mode 
+
 # July 13, 2026
 - base: support per-app volume
 - services: Fixing per-app volume ux
