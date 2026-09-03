@@ -1,5 +1,13 @@
 # Shinkai Project Changelogs
 
+# September 03, 2026
+- intial Version "heptakaideka" Android 17
+- introduce New GameSpace And Now Integrate with SideBar
+- Update ShinkaiWalls With new style icon App
+- introduce new local Backup And Restore App native
+- Update ProgressBar PackageInstaller to SquigglyProgressBar 
+- update New UI per-app Volume
+
 # August 03, 2026
 - introducing Shinkai Walls
 - GameSpace: Revamp UI
