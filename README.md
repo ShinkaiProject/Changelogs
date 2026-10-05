@@ -1,5 +1,20 @@
 # Shinkai Project Changelogs
 
+# October 05, 2026
+- fixing biometric bottomsheet insets
+- add back Hide ADB and developer setting enable status
+- re-add the spoof option feature
+- add option toggling suggestions button
+- Allow toggle to kill Flash SMS messages
+- SystemUI: Screen recorder: keep recordings decodable on-device
+- services/display: Allow sunlight HBM to react to ambient lux on manual brightness
+- re-add disable data indicator and 4G icon
+- Revamp Shinkai walls
+- Settings: change Logo on Android Version
+- Bluetooth: accept proprietary L2CAP option 0x7F on config
+- GameSpace: Introduce Auto Hide Toolbar And Adjust Auto Hide Toolbar Transition Animation
+- LMOFreeform: Revamp UI and Migrate to M3E
+
 # September 03, 2026
 - intial Version "heptakaideka" Android 17
 - introduce New GameSpace And Now Integrate with SideBar
